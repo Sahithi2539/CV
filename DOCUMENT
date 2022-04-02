@@ -1,0 +1,45 @@
+ RESOURCES
+ -------------
+ devdocs.io
+
+ utf standard encoding 
+ we have unicode to be same in all languages
+
+ <em>  vs  <i> 
+
+
+ Building Personal Site
+ ------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3 CSS
+ ---------------------
+
+ 3.1 Introduction to css
+
+ css - cascading style sheet
+
+ used to style the html page
+
+ <font>
+ <center>
+ <h1 bgcolor = "#990000">
+
+3.2 Inline css
